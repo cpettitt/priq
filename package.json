@@ -1,0 +1,15 @@
+{
+  "name": "priq",
+  "version": "0.0.1",
+  "description": "A simple priority queue implementation",
+  "main": "priq.js",
+  "scripts": {
+    "test": "mocha priq-test.js"
+  },
+  "author": "Chris Pettitt <cpettitt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
